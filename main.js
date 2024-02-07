@@ -10,13 +10,12 @@ button.addEventListener('click', () => {
 const buttonn = document.getElementById('but2');
 const gifContainer = document.getElementById('gifContainer');
 const gifs = [
-    'https://im4.ezgif.com/tmp/ezgif-4-9f6f0918b2.gif',
-    'https://im4.ezgif.com/tmp/ezgif-4-7561817a05.gif',
-    'https://im4.ezgif.com/tmp/ezgif-4-7c1ca3b683.gif',
-    'https://im4.ezgif.com/tmp/ezgif-4-23fccb2f94.gif',
-    'https://im4.ezgif.com/tmp/ezgif-4-3935ace1ec.gif',
-    'https://im4.ezgif.com/tmp/ezgif-4-bd7c76e198.gif',
-    'https://im7.ezgif.com/tmp/ezgif-7-521bd061b6.gif'
+      'ezgif-5-0ae35058f1.gif',
+    '1.gif',
+    '2.gif',
+    '3.gif',
+    '4.gif',
+    '5.gif',
 
 ];
 let currentGifIndex = 0;
